@@ -139,7 +139,7 @@
     }
     .wish-list {
       width: 1000px;
-      height: 180px;
+      height: 130px;
     }
     .wish-list .wish-title h4 {
       font-size: 26px;
@@ -171,7 +171,7 @@
     }
     .wish-list {
       width: 900px;
-      height: 160px;
+      height: 130px;
     }
     .wish-list .wish-title h4 {
       font-size: 24px;
@@ -222,8 +222,8 @@
       width: 1000px;
     }
     .review-btn {
-      width: 230px;
-      height: 80px;
+      width: 150px;
+      height: 50px;
     }
   }
   
@@ -245,8 +245,8 @@
       padding: 20px;
     }
     .review-btn {
-      width: 200px;
-      height: 70px;
+      width: 150px;
+      height: 50px;
       font-size: 16px;
     }
   }
