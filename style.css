@@ -777,7 +777,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
   margin-bottom: 0px  !important;
 }
 .content-wish-div h5 {
-  margin-top: 0px;
+  margin-top: -8px;
 }
 .content-wish-div h5 span {
   font-family: Poppins;
@@ -1087,7 +1087,7 @@ input[type="date"]::-webkit-calendar-picker-indicator {
 .pending-price {
   display: flex;
   justify-content: space-between;
-  margin-top: 20px;
+  margin-top: 0px;
 }
 .pending-price h4 {
   font-family: Poppins;
